@@ -170,9 +170,9 @@ hr {
 		}
 		.middleStuff {
 		width: 90%;
-		margin: 15px 15px 15px 15px;
+		margin: 2%;
 		border: 2px solid #dddddd;
-		padding: 15px;
+		
 		background-color: #fff;
 		}
 		aside {
@@ -188,6 +188,13 @@ hr {
 		}
 		.myName {
 		margin: 0 0 0 15px;
+		}
+		.portfolioStuff {
+			width: 520px;
+			margin: 0 auto;
+		}
+		.picture {
+		padding: 25px;
 		}
 }
 
@@ -208,10 +215,20 @@ hr {
 		}
 		.middleStuff {
 		width: 85%;
-		margin: 15px 5% 15px 3%;
+			
 		}
 		aside {
 		width: 85%;
 		margin: 15px 5% 15px 3%;
+		}
+		header {
+			position: static;
+		}
+		.portfolioStuff {
+			width: 200px;
+			margin: 0 auto;
+		}
+		.picture {
+		padding: 20px 5px;
 		}
 }
