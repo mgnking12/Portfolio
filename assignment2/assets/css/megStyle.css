@@ -2,3 +2,14 @@
 	margin-top: 0px;
 		margin-right: 10px;
 }
+.message {
+	height: 100px;
+}
+
+.connectIcon {
+	margin: 0 5px 0 5px;
+}
+.connectImage{
+	height: 50px;
+	width: 50px;
+	}
