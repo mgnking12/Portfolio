@@ -13,3 +13,47 @@
 	height: 50px;
 	width: 50px;
 	}
+
+#hOrgana {
+		background: url(../img/header2Organa.png) no-repeat center top;
+		padding-top: 5px;
+		background-attachment: relative;
+		background-position: center center;
+		min-height: 720px;
+		width: 100%;
+		
+		-webkit-background-size: 100%;
+		-moz-background-size: 100%;
+		-o-background-size: 100%;
+		background-size: 100%;
+
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+		color: white;
+
+
+
+
+	}
+
+	#hOrgana .logo {
+		margin-top: 0px;
+		margin-left: 10px;
+		display: inline-block;
+		font-weight: 900;
+		color: white;
+		letter-spacing: 1px;
+	}
+
+	#hOrgana .logo h2{
+		font-weight: 900;
+		color: white;
+		letter-spacing: 1px;
+	}
+
+	#hOrgana h3 {
+		margin-top: 30px;
+		letter-spacing: 1px;
+	}
