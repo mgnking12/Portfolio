@@ -108,9 +108,7 @@
 		text-decoration: none;
 		color:#696E74;
 	}
-	.a2{
-		font-size: 30px;
-	}
+
 
 	.nopadding {
 		padding: 0px !important;
@@ -203,11 +201,11 @@
 
 	/* HEADER SECTION */
 	#h {
-		background: url(../img/headeranimate2.png) no-repeat center top;
+		background: url(../img/header2.png) no-repeat center top;
 		padding-top: 5px;
 		background-attachment: relative;
 		background-position: center center;
-		min-height: 700px;
+		min-height: 720px;
 		width: 100%;
 		
 		-webkit-background-size: 100%;
@@ -227,7 +225,6 @@
 		margin-left: 10px;
 		display: inline-block;
 		font-weight: 900;
-		color: white;
 		letter-spacing: 1px;
 
 	}
@@ -342,11 +339,11 @@
 
 	/* HEADER 2 - PORTFOLIO SECTION */
 	#h2 {
-		background: url(../img/header-2.jpg) no-repeat center top;
+		background: url(../img/header2.png) no-repeat center top;
 		padding-top: 5px;
 		background-attachment: relative;
 		background-position: center center;
-		min-height: 700px;
+		min-height: 720px;
 		width: 100%;
 		
 		-webkit-background-size: 100%;
@@ -359,12 +356,19 @@
 		-o-background-size: cover;
 		background-size: cover;
 		color: white;
+
+
+
+
 	}
 
 	#h2 .logo {
-		margin-top: 30px;
-		margin-left: 40px;
-		padding-bottom: 150px;
+		margin-top: 0px;
+		margin-left: 10px;
+		display: inline-block;
+		font-weight: 900;
+		color: white;
+		letter-spacing: 1px;
 	}
 
 	#h2 .logo h2{
